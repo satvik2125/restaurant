@@ -24,11 +24,6 @@ __There are 3 pages in the website-:__
 * Ajax
 
 
-
-## Link to the project 
-
-https://animeshsingh75.github.io/Restaurant-Website/
-
 ## Screenshots
 * 1200px and above
 <p float="left">
